@@ -20,6 +20,8 @@ Resources:
           Value: !Ref Environment
         - Key: Project
           Value: GithubActionsTesting
+        - Key: Owner
+          Value: talhabaykal
 
 Outputs:
   BucketName:
